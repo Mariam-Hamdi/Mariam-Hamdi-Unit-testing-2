@@ -1,0 +1,10 @@
+# Build & temporary test artifacts
+bin/
+obj/
+TestResults/
+.vs/
+*.user
+*.suo
+
+# Verify temporary received snapshots
+*.received.txt
